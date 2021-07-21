@@ -1,0 +1,11 @@
+keys:
+  api: apikey
+  secret: secretkey
+sql:
+  server: localhost
+  db: db
+  user: uid
+  password: pwd
+  port: '1433'
+  driver: 'mssql+pyodbc'
+  os_driver: '{ODBC Driver 17 for SQL Server}'
